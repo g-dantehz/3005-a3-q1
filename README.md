@@ -1,4 +1,4 @@
-# 3005-a1-q1
+# 3005-a3-q1
 Student DB: PostgreSQL + Java (JDBC)
 
 Description:
