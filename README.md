@@ -1,6 +1,8 @@
 # 3005-a3-q1
 Student DB: PostgreSQL + Java (JDBC)
 
+Video link: https://youtu.be/pe7exgTXOsc
+
 Description:
 A Java application that connects to PostgreSQL database and performs the basic four database operations (CRUD) on a table students.
 
